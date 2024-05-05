@@ -250,15 +250,19 @@
 }
 .bg3a{
     background-image: url('img/practice.jpg');
-    background-size: cover;
+    background-size: contain;
     height: 70vh;
-    padding: 30px;
+    padding: 25px;
+    background-repeat: no-repeat;
+    width: 100%;
 }
 .bg3b{
     background-image: url('img/start.jpg');
-    background-size: cover;
+    background-size: contain;
     height: 70vh;
-    padding: 30px;
+    padding: 25px;
+    background-repeat: no-repeat;
+    width: 100%;
 }
 .row2{
     margin-top: -49px;
